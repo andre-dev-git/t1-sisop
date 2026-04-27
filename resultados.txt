@@ -1,0 +1,419 @@
+==== T1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 502484905 
+real 2,25 
+user 4,49 
+sys 0,00 
+
+==== T1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 256887624 
+real 1,16 
+user 4,58 
+sys 0,00 
+
+==== T1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 235907293 
+real 1,12 
+user 6,90 
+sys 0,00 
+
+==== T2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 140,58 
+user 149,50 
+sys 130,18 
+
+==== T2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 145,85 
+user 214,53 
+sys 291,87 
+
+==== T2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 164,67 
+user 260,98 
+sys 864,78 
+
+==== P1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 521209688 
+real 0,45 
+user 0,89 
+sys 0,00 
+
+==== P1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 266309201 
+real 0,22 
+user 0,83 
+sys 0,00 
+
+==== P1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 322154855 
+real 0,26 
+user 1,35 
+sys 0,00 
+
+==== P2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 301,79 
+user 236,89 
+sys 342,11 
+
+==== P2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 353,89 
+user 380,80 
+sys 917,34 
+
+==== P2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 487,26 
+user 612,40 
+sys 2955,71 
+
+==== T1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 503548313 
+real 2,44 
+user 4,85 
+sys 0,00 
+
+==== T1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 267387268 
+real 1,22 
+user 4,65 
+sys 0,00 
+
+==== T1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 250322789 
+real 1,23 
+user 7,43 
+sys 0,00 
+
+==== T2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 135,98 
+user 143,01 
+sys 127,91 
+
+==== T2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 145,59 
+user 205,26 
+sys 332,00 
+
+==== T2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 180,63 
+user 290,13 
+sys 1010,78 
+
+==== P1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 520938212 
+real 0,41 
+user 0,81 
+sys 0,00 
+
+==== P1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 290680823 
+real 0,23 
+user 0,81 
+sys 0,00 
+
+==== P1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 275392947 
+real 0,21 
+user 1,23 
+sys 0,00 
+
+==== P2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 294,39 
+user 226,92 
+sys 340,43 
+
+==== P2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 343,77 
+user 360,65 
+sys 924,81 
+
+==== P2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 502,73 
+user 664,32 
+sys 3021,62 
+
+==== T1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 511480161 
+real 2,40 
+user 4,75 
+sys 0,00 
+
+==== T1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 253756279 
+real 1,22 
+user 4,83 
+sys 0,00 
+
+==== T1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 213617877 
+real 1,19 
+user 7,44 
+sys 0,00 
+
+==== T2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 128,89 
+user 127,16 
+sys 128,85 
+
+==== T2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 145,89 
+user 199,14 
+sys 341,09 
+
+==== T2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 162,44 
+user 257,99 
+sys 936,94 
+
+==== P1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 513081254 
+real 0,44 
+user 0,87 
+sys 0,00 
+
+==== P1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 264639863 
+real 0,21 
+user 0,81 
+sys 0,00 
+
+==== P1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 372952149 
+real 0,31 
+user 1,55 
+sys 0,00 
+
+==== P2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 302,24 
+user 236,28 
+sys 357,07 
+
+==== P2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 348,61 
+user 367,71 
+sys 930,83 
+
+==== P2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 483,89 
+user 645,43 
+sys 2914,01 
+
+==== T1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 503803026 
+real 2,42 
+user 4,80 
+sys 0,00 
+
+==== T1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 295049573 
+real 1,41 
+user 5,25 
+sys 0,00 
+
+==== T1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 243328856 
+real 1,22 
+user 7,76 
+sys 0,00 
+
+==== T2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 130,56 
+user 133,48 
+sys 125,66 
+
+==== T2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 144,31 
+user 201,75 
+sys 331,26 
+
+==== T2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 156,04 
+user 247,05 
+sys 899,19 
+
+==== P1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 518515662 
+real 0,44 
+user 0,88 
+sys 0,00 
+
+==== P1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 262214385 
+real 0,19 
+user 0,75 
+sys 0,00 
+
+==== P1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 304886574 
+real 0,22 
+user 1,17 
+sys 0,00 
+
+==== P2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 298,02 
+user 218,47 
+sys 355,14 
+
+==== P2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 345,44 
+user 369,99 
+sys 907,20 
+
+==== P2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 484,18 
+user 632,08 
+sys 2882,79 
+
+==== T1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 517135212 
+real 2,63 
+user 5,19 
+sys 0,00 
+
+==== T1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 301289731 
+real 1,28 
+user 4,71 
+sys 0,01 
+
+==== T1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 280759900 
+real 1,40 
+user 8,23 
+sys 0,02 
+
+==== T2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 157,19 
+user 171,21 
+sys 141,06 
+
+==== T2 N=4 ==== 
+^F^Fincrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 145,44 
+user 213,20 
+sys 308,24 
+
+==== T2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 174,75 
+user 283,42 
+sys 926,02 
+
+==== P1 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 530904438 
+real 0,47 
+user 0,94 
+sys 0,00 
+
+==== P1 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 252774170 
+real 0,25 
+user 0,95 
+sys 0,00 
+
+==== P1 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 267960481 
+real 0,21 
+user 1,24 
+sys 0,00 
+
+==== P2 N=2 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 285,07 
+user 224,31 
+sys 314,36 
+
+==== P2 N=4 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 343,20 
+user 377,27 
+sys 892,46 
+
+==== P2 N=8 ==== 
+incrementos pedidos: 1000000000 
+contador global: 1000000000 
+real 485,52 
+user 637,34 
+sys 2874,23

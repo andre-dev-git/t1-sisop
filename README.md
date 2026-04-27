@@ -96,7 +96,7 @@ Vulnerabilidades:
 
 ## 2. Tabela de Tempos
 
-A tabela abaixo usa a média do tempo real das 5 execuções.
+A tabela abaixo usa a média do tempo real das 5 execuções (Dados brutos usados estão no repositório, em ./resultados.txt).
 
 | Cenário | Sincronização | N = 2 | N = 4 | N = 8 |
 | --- | --- | --- | --- | --- |
