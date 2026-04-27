@@ -14,6 +14,6 @@ clean:
 
 timed:
 	@test -n "$(strip $(CMD))" || (echo 'uso: make timed CMD="comando"'; exit 1)
-	@/usr/bin/time -f '%e s' $(CMD)
+	@time -p $(CMD)
 
 .PHONY: all clean timed

@@ -8,6 +8,10 @@
 - Compilar tudo (`t1`, `t2`, `p1`, `p2`): `make all`
 - Limpar binários e temporários: `make clean`
 - Medir tempo de comando: `make timed CMD="./t2_exec 4"`
+  - Usa `time -p` (POSIX), mais portavel em sistemas Unix-like (Linux/macOS/*BSD).
+- Rodar matriz completa (`T1/T2/P1/P2` com `N=2,4,8`):
+  - `./run_all.sh` (usa binarios ja compilados)
+  - `./run_all.sh --build` (compila com `make all` antes)
 
 ## Resumo de `t1.c` (T1)
 
