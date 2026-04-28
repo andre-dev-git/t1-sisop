@@ -129,13 +129,13 @@ Em T1, todas as execuções terminaram abaixo de `1.000.000.000`. Com N = 2, os 
 
 Em P1, a memória compartilhada permitiu que os processos acessassem o mesmo contador, mas não protegeu o acesso. Por isso, também houve perda de incrementos.
 
-A máquina usada possui 12 CPUs lógicas. Isso aumenta a chance de execução paralela real entre threads e processos. Com mais unidades de execução, ocorrem mais acessos concorrentes ao contador, aumentando a chance de corrupção. A variação entre execuções ocorre por causa do escalonamento do sistema operacional.
+A máquina usada possui 12 CPUs lógicas. Isso aumenta a chance de execução paralela real nas threads e processos. Com mais unidades de execução, ocorrem mais acessos concorrentes ao contador, aumentando a chance de corrupção. A variação entre execuções ocorre por causa do escalonamento do sistema operacional.
 
 ## 3.1. Comparação com outra Máquina
 
 Na outra máquina (2 vCPUs x86_64, VM com hypervisor Microsoft, CPU exposta como AMD EPYC 7763), **T1** terminou com contador `558.180.006` (N = 2), `309.649.073` (N = 4) e `311.389.593` (N = 8). **P1** terminou com `706.723.764`, `370.306.077` e `225.888.050`, respectivamente. Em todos os casos, **não** chegou a 1 bilhão porque o incremento não é atômico e há *race condition* na região crítica, como na seção 3.
 
-A diferença de hardware (2 vCPUs e ambiente virtualizado frente a 12 CPUs lógicas na máquina local) altera o padrão de intercalação entre threads ou processos e, com isso, a frequência de colisões na leitura-modificação-escrita, de modo que os contadores finais numéricos não coincidem com os da tabela acima, mas a natureza do erro e o fato de o valor continuar muito abaixo de 1 bilhão permanecem os mesmos.
+A diferença de hardware (2 vCPUs e ambiente virtualizado frente a 12 CPUs lógicas na máquina local) altera o padrão de execução nas threads e processos e, com isso, a frequência de colisões na leitura-modificação-escrita, de modo que os contadores finais numéricos não coincidem com os da tabela acima, mas a natureza do erro e o fato de o valor continuar muito abaixo de 1 bilhão permanecem os mesmos.
 
 ## 4. Gráfico de Escalabilidade
 
